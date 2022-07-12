@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806946398287",
+    "project_id": "alarm-app-eba09",
+    "storage_bucket": "alarm-app-eba09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806946398287:android:923138fca9449f07328a3a",
+        "android_client_info": {
+          "package_name": "com.example.alarm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806946398287-8lj6edv7u4q51lqrrqpnhobu1ib4unjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rO3En2kYYycadY2dePqKqxGnFC5AayM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806946398287-8lj6edv7u4q51lqrrqpnhobu1ib4unjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
